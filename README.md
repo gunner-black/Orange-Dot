@@ -1,4 +1,4 @@
-# PySignage Player 📺
+# Orange Dot 📺
 
 > A modular, open-source Digital Signage player built in Python, designed to operate from a standalone (offline) mode up to complex, remotely managed networks.
 
